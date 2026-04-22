@@ -1,10 +1,7 @@
 # Changes
 
-- Added Save function
-    - Can create new file when editing txt from no file
-
-- Key Processes
-    - Tab Key Operational( added in 0.0.10, forgot to update README)
+- Added Search Function
+    - Can use arrow keys to navigate results
 
 # TODO
 
